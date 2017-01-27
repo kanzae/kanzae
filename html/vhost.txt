@@ -1,0 +1,7 @@
+httpd.conf
+
+NameVirtualHost kanzae-hair.fr
+<VirtualHost kanzae-hair.fr>
+	DocumentRoot C:/wamp64/www/kanzae/
+	ServerName kanzae-hair.fr
+</VirtualHost>
